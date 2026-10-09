@@ -1,0 +1,6 @@
+info:
+  name: get 14
+  type: http
+http:
+  method: GET
+  url: https://api.example.test/inventory-e2e-4/14
